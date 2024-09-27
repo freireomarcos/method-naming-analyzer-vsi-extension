@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = DevGuidanceLint.Vsix
+build_property.ProjectDir = C:\projects\vs-extensions\name-analyzer\DevGuidanceLint\DevGuidanceLint.Vsix\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

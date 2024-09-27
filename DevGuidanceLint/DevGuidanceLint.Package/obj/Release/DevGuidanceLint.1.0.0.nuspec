@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>DevGuidanceLint</id>
+    <version>1.0.0</version>
+    <authors>marco</authors>
+    <developmentDependency>true</developmentDependency>
+    <licenseUrl>http://license_url_here_or_delete_this_line/</licenseUrl>
+    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
+    <description>DevGuidanceLint</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright</copyright>
+    <tags>DevGuidanceLint, analyzers</tags>
+    <repository type="git" url="http://REPOSITORY_URL_HERE_OR_DELETE_THIS_LINE" commit="158ec6458638032d1de588d18089c4f4cbbabdbc" />
+  </metadata>
+  <files>
+    <file src="C:\projects\vs-extensions\name-analyzer\DevGuidanceLint\DevGuidanceLint.Package\bin\Release\netstandard2.0\DevGuidanceLint.dll" target="analyzers\dotnet\cs\DevGuidanceLint.dll" />
+    <file src="C:\projects\vs-extensions\name-analyzer\DevGuidanceLint\DevGuidanceLint.Package\bin\Release\netstandard2.0\DevGuidanceLint.CodeFixes.dll" target="analyzers\dotnet\cs\DevGuidanceLint.CodeFixes.dll" />
+    <file src="C:\projects\vs-extensions\name-analyzer\DevGuidanceLint\DevGuidanceLint.Package\tools\install.ps1" target="tools\install.ps1" />
+    <file src="C:\projects\vs-extensions\name-analyzer\DevGuidanceLint\DevGuidanceLint.Package\tools\uninstall.ps1" target="tools\uninstall.ps1" />
+  </files>
+</package>
